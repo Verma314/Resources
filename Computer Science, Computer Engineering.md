@@ -24,3 +24,8 @@
 
 * [3brown1blue](https://github.com/3b1b/manim)
 * [Primer](https://github.com/Helpsypoo/primer)
+
+## FPGS
+
+* [Web FPGA](https://blog.webfpga.io/2019/08/21/getting-started-with-your-webfpga-kit/)
+* [FPGA 101 Reddit Post](https://www.reddit.com/r/FPGA/comments/d7nah8/fpga_101/)
