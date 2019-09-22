@@ -20,12 +20,12 @@
 * [Interview with Weld’s main contributor: accelerating numpy, scikit and pandas as much as 100x with Rust and LLVM](https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1)
 
 
-## Simulating Stuff
+### Simulating Stuff
 
 * [3brown1blue](https://github.com/3b1b/manim)
 * [Primer](https://github.com/Helpsypoo/primer)
 
-## FPGS
+### FPGA
 
 * [Web FPGA](https://blog.webfpga.io/2019/08/21/getting-started-with-your-webfpga-kit/)
 * [FPGA 101 Reddit Post](https://www.reddit.com/r/FPGA/comments/d7nah8/fpga_101/)
