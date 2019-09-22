@@ -18,3 +18,9 @@
 
 
 * [Interview with Weld’s main contributor: accelerating numpy, scikit and pandas as much as 100x with Rust and LLVM](https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1)
+
+
+## Simulating Stuff
+
+* [3brown1blue](https://github.com/3b1b/manim)
+* [Primer](https://github.com/Helpsypoo/primer)
