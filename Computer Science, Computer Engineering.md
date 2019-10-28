@@ -8,6 +8,8 @@
 * [Spectre Attack Research Paper](https://spectreattack.com/spectre.pdf)
 * [What's an underappreciated advancement in computer science? -- Branch Prediction/Speculative Execution attacks](https://www.quora.com/Whats-an-underappreciated-advancement-in-computer-science/answer/Ben-Podgursky?ch=10&share=413dec12&srid=RuUP)
 
+### Computation
+*  Physics and computation(https://toc.seas.harvard.edu/links/cs-229r-physics-and-computation)
 
 ### Fields Of Research
 * [Systems Science](https://en.wikipedia.org/wiki/Systems_science)
