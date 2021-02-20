@@ -31,3 +31,7 @@
 
 * [Web FPGA](https://blog.webfpga.io/2019/08/21/getting-started-with-your-webfpga-kit/)
 * [FPGA 101 Reddit Post](https://www.reddit.com/r/FPGA/comments/d7nah8/fpga_101/)
+
+### ML
+
+* https://github.com/abhishekkrthakur/approachingalmost
