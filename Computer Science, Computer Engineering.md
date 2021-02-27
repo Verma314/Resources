@@ -39,3 +39,14 @@
 ### Security
 
 * [How to secure a linux server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+* [How to secure anything](https://t.co/KdIIGSyQMn?amp=1)
+* [PWN College --  practice, core cybersecurity concepts in a hands-on fashio](https://pwn.college/)
+
+### OS
+
+* [Linux from Scratch](https://t.co/wCWWvyjVZW?amp=1)
+
+
+## Book Recommendations
+
+* https://news.ycombinator.com/item?id=25530700
