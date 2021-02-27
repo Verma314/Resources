@@ -35,3 +35,7 @@
 ### ML
 
 * https://github.com/abhishekkrthakur/approachingalmost
+
+### Security
+
+* [How to secure a linux server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
